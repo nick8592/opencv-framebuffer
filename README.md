@@ -31,7 +31,7 @@ mkdir opencv_framebuffer
 cd opencv_framebuffer
 ```
 
-3. Save the provided C++ code in the directory `opencv_framebuffer`.
+3. Save the provided C++ code in the `opencv_framebuffer`.
 
 5. Finally, build the project:
 
