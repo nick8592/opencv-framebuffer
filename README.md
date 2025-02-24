@@ -31,9 +31,7 @@ mkdir opencv_framebuffer
 cd opencv_framebuffer
 ```
 
-3. Save the provided C++ code in a file named `main.cpp`.
-
-4. Create a CMakeLists.txt file to help with the build process:
+3. Save the provided C++ code in the directory `opencv_framebuffer`.
 
 5. Finally, build the project:
 
