@@ -33,7 +33,7 @@ cd opencv_framebuffer
 
 3. Save the provided C++ code in the `opencv_framebuffer`.
 
-5. Finally, build the project:
+4. Finally, build the project:
 
 ```bash
 g++ -o capture_and_display capture_and_display.cpp `pkg-config --cflags --libs opencv4`
