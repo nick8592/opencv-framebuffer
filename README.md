@@ -4,7 +4,7 @@ This project demonstrates how to capture video from the default camera, store th
 
 ## Requirements
 
-- **C++ Compiler** (e.g., GCC, Clang, MSVC)
+- **C++ Compiler** (e.g., GCC)
 - **OpenCV** library (for computer vision tasks)
 
 ### Installation of OpenCV
