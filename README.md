@@ -33,7 +33,7 @@ git clone https://github.com/nick8592/opencv_framebuffer.git
 3. Navigate to the directory.
 
 ```bash
-cd opencv_framebuffer
+cd opencv-framebuffer
 ```
 
 4. Build the project:
