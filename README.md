@@ -24,16 +24,19 @@ To build and compile this C++ program, follow the steps below:
 
 1. Ensure OpenCV is installed and configured correctly on your system.
 
-2. Create a directory to store the code and navigate into it.
+2. Clone this repository.
 
 ```bash
-mkdir opencv_framebuffer
+git clone https://github.com/nick8592/opencv_framebuffer.git
+```
+
+3. Navigate to the directory.
+
+```bash
 cd opencv_framebuffer
 ```
 
-3. Save the provided C++ code in the `opencv_framebuffer`.
-
-4. Finally, build the project:
+4. Build the project:
 
 ```bash
 g++ -o capture_and_display capture_and_display.cpp `pkg-config --cflags --libs opencv4`
